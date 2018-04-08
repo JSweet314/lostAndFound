@@ -1,0 +1,6 @@
+[submodule "lostAndFound-client"]
+	path = lostAndFound-client
+	url = git@github.com:JSweet314/lostAndFound-client.git
+[submodule "lostAndFound-server"]
+	path = lostAndFound-server
+	url = git@github.com:JSweet314/lostAndFound-server.git
