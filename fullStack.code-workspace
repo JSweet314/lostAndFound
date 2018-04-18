@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "lostAndFound-client"
+		},
+		{
+			"path": "lostAndFound-server"
+		}
+	],
+  "settings": {}
+}
